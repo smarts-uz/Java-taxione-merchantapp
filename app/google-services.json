@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "89803970449",
+    "project_id": "taxione-b7daf",
+    "storage_bucket": "taxione-b7daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89803970449:android:a87dce186e2946a3aeac30",
+        "android_client_info": {
+          "package_name": "com.ourdevelops.taxione"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89803970449-o0ngmrlibgi6nf8rm08r33dvo1dse8fn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ourdevelops.taxione",
+            "certificate_hash": "f21f018f7dfa8971279f0ff311d4c0167b30a971"
+          }
+        },
+        {
+          "client_id": "89803970449-p7kmenpnaa6ns7ujppm4tmm5qg6cmrqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATS_X9P-qqnG1-jvvUUOzOpcQ53KPQMDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89803970449-p7kmenpnaa6ns7ujppm4tmm5qg6cmrqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89803970449:android:147d13222d9721d0aeac30",
+        "android_client_info": {
+          "package_name": "com.ourdevelops.taxione1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89803970449-e3jssp9rlnikgcb3k8qmpp7ge4dhqh2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ourdevelops.taxione1",
+            "certificate_hash": "f21f018f7dfa8971279f0ff311d4c0167b30a971"
+          }
+        },
+        {
+          "client_id": "89803970449-p7kmenpnaa6ns7ujppm4tmm5qg6cmrqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATS_X9P-qqnG1-jvvUUOzOpcQ53KPQMDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89803970449-p7kmenpnaa6ns7ujppm4tmm5qg6cmrqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89803970449:android:274663f42c6eb8cdaeac30",
+        "android_client_info": {
+          "package_name": "com.taxione.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89803970449-l71p4cqvneacrkp36asvg712c6nhidal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxione.merchant",
+            "certificate_hash": "f21f018f7dfa8971279f0ff311d4c0167b30a971"
+          }
+        },
+        {
+          "client_id": "89803970449-p7kmenpnaa6ns7ujppm4tmm5qg6cmrqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATS_X9P-qqnG1-jvvUUOzOpcQ53KPQMDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89803970449-p7kmenpnaa6ns7ujppm4tmm5qg6cmrqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
