@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "89803970449",
+    "firebase_url": "https://taxione-b7daf-default-rtdb.firebaseio.com",
     "project_id": "taxione-b7daf",
     "storage_bucket": "taxione-b7daf.appspot.com"
   },
@@ -51,14 +52,6 @@
       },
       "oauth_client": [
         {
-          "client_id": "89803970449-e3jssp9rlnikgcb3k8qmpp7ge4dhqh2k.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.ourdevelops.taxione1",
-            "certificate_hash": "f21f018f7dfa8971279f0ff311d4c0167b30a971"
-          }
-        },
-        {
           "client_id": "89803970449-p7kmenpnaa6ns7ujppm4tmm5qg6cmrqu.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -87,6 +80,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "89803970449-3f70k8ca63tp9ihao1bhlql7umffogt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxione.merchant",
+            "certificate_hash": "199c2094b901db62653ca3b851d55a5f98c3d3e5"
+          }
+        },
         {
           "client_id": "89803970449-l71p4cqvneacrkp36asvg712c6nhidal.apps.googleusercontent.com",
           "client_type": 1,
