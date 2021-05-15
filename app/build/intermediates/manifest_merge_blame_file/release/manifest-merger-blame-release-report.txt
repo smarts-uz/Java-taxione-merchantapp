@@ -1,0 +1,794 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ourdevelops.ornidsmerchant"
+4    android:installLocation="auto"
+5    android:versionCode="210"
+6    android:versionName="2.1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.CALL_PHONE" />
+12-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:7:5-69
+12-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:7:22-66
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:8:5-67
+13-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:9:5-79
+14-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:10:5-79
+15-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:11:5-71
+16-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:11:22-68
+17    <uses-permission android:name="android.permission.GET_TASKS" />
+17-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:12:5-68
+17-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:12:22-65
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:13:5-65
+18-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:13:22-62
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:14:5-81
+19-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:14:22-78
+20
+21    <uses-feature android:name="android.hardware.camera" />
+21-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:16:5-60
+21-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:16:19-57
+22    <uses-feature android:name="android.hardware.camera.autofocus" />
+22-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:17:5-70
+22-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:17:19-67
+23
+24    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Require below permissions for reading sms and otp assist feature -->
+24-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:13:5-76
+24-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:13:22-73
+25    <!--
+26    <uses-permission android:name="android.permission.READ_SMS" />
+27    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+28    -->
+29    <uses-feature
+29-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:24:5-26:36
+30        android:name="android.hardware.telephony"
+30-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:25:9-50
+31        android:required="false" />
+31-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:26:9-33
+32
+33    <uses-permission android:name="android.permission.VIBRATE" />
+33-->[com.wdullaer:materialdatetimepicker:3.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\6836d6b61abf6bb338d9c44ae6fca3d6\jetified-materialdatetimepicker-3.2.0\AndroidManifest.xml:26:5-66
+33-->[com.wdullaer:materialdatetimepicker:3.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\6836d6b61abf6bb338d9c44ae6fca3d6\jetified-materialdatetimepicker-3.2.0\AndroidManifest.xml:26:22-63
+34
+35    <uses-feature
+35-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\33293b04d6367edcf404b04bb8a631ea\jetified-mapbox-android-sdk-9.5.0\AndroidManifest.xml:9:5-11:35
+36        android:glEsVersion="0x00020000"
+36-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\33293b04d6367edcf404b04bb8a631ea\jetified-mapbox-android-sdk-9.5.0\AndroidManifest.xml:10:9-41
+37        android:required="true" />
+37-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\33293b04d6367edcf404b04bb8a631ea\jetified-mapbox-android-sdk-9.5.0\AndroidManifest.xml:11:9-32
+38    <uses-feature
+38-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\33293b04d6367edcf404b04bb8a631ea\jetified-mapbox-android-sdk-9.5.0\AndroidManifest.xml:12:5-14:36
+39        android:name="android.hardware.wifi"
+39-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\33293b04d6367edcf404b04bb8a631ea\jetified-mapbox-android-sdk-9.5.0\AndroidManifest.xml:13:9-45
+40        android:required="false" /> <!-- Required for CrashReporterJobIntentService on API levels below 25 -->
+40-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\33293b04d6367edcf404b04bb8a631ea\jetified-mapbox-android-sdk-9.5.0\AndroidManifest.xml:14:9-33
+41    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+41-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\ac54ed631162b22cd4acf7819f852890\jetified-mapbox-android-telemetry-6.1.0\AndroidManifest.xml:12:5-68
+41-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\ac54ed631162b22cd4acf7819f852890\jetified-mapbox-android-telemetry-6.1.0\AndroidManifest.xml:12:22-65
+42    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+42-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\d8819ce14b04735c24126163bbe01372\firebase-iid-20.2.0\AndroidManifest.xml:26:5-82
+42-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\d8819ce14b04735c24126163bbe01372\firebase-iid-20.2.0\AndroidManifest.xml:26:22-79
+43    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+43-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:26:5-110
+43-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:26:22-107
+44
+45    <application
+45-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:19:5-140:19
+46        android:name="com.ourdevelops.ornidsmerchant.constants.BaseApp"
+46-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:20:9-72
+47        android:allowBackup="true"
+47-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:23:9-35
+48        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+48-->[androidx.core:core:1.3.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\995f43caba09716aad68192de7dd2f99\core-1.3.2\AndroidManifest.xml:24:18-86
+49        android:icon="@drawable/logoapp"
+49-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:21:9-41
+50        android:label="@string/app_name"
+50-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:22:9-41
+51        android:largeHeap="true"
+51-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:24:9-33
+52        android:networkSecurityConfig="@xml/network_security_config"
+52-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:25:9-69
+53        android:requestLegacyExternalStorage="true"
+53-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:26:9-52
+54        android:supportsRtl="false"
+54-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:27:9-36
+55        android:theme="@style/AppTheme"
+55-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:28:9-40
+56        android:usesCleartextTraffic="false"
+56-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:17:18-54
+57        android:windowSoftInputMode="adjustPan" >
+57-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:30:9-48
+58        <activity
+58-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:30:9-31:52
+59            android:name="com.ourdevelops.ornidsmerchant.activity.EditstoreActivity"
+59-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:30:19-91
+60            android:screenOrientation="portrait" />
+60-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:31:13-49
+61        <activity
+61-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:32:9-33:52
+62            android:name="com.ourdevelops.ornidsmerchant.activity.AddmenuActivity"
+62-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:32:19-89
+63            android:screenOrientation="portrait" />
+63-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:33:13-49
+64        <activity
+64-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:34:9-35:52
+65            android:name="com.ourdevelops.ornidsmerchant.activity.OrdervalidasiActivity"
+65-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:34:19-95
+66            android:screenOrientation="portrait" />
+66-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:35:13-49
+67        <activity
+67-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:36:9-46:20
+68            android:name="com.ourdevelops.ornidsmerchant.activity.SplashActivity"
+68-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:37:13-82
+69            android:noHistory="true"
+69-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:38:13-37
+70            android:screenOrientation="portrait"
+70-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:39:13-49
+71            android:theme="@style/AppTheme" >
+71-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:40:13-44
+72            <intent-filter>
+72-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:41:13-45:29
+73                <action android:name="android.intent.action.MAIN" />
+73-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:42:17-69
+73-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:42:25-66
+74
+75                <category android:name="android.intent.category.LAUNCHER" />
+75-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:44:17-77
+75-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:44:27-74
+76            </intent-filter>
+77        </activity>
+78
+79        <service android:name="com.ourdevelops.ornidsmerchant.utils.api.service.MessagingService" >
+79-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:47:9-51:19
+79-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:47:18-98
+80            <intent-filter>
+80-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:48:13-50:29
+81                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+81-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:49:17-78
+81-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:49:25-75
+82            </intent-filter>
+83        </service>
+84
+85        <activity
+85-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:52:9-54:52
+86            android:name="com.ourdevelops.ornidsmerchant.activity.IntroActivity"
+86-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:53:13-81
+87            android:screenOrientation="portrait" />
+87-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:54:13-49
+88        <activity
+88-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:56:9-58:52
+89            android:name="com.ourdevelops.ornidsmerchant.activity.PicklocationActivity"
+89-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:57:13-88
+90            android:screenOrientation="portrait" />
+90-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:58:13-49
+91        <activity
+91-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:59:9-62:73
+92            android:name="com.ourdevelops.ornidsmerchant.activity.ChatActivity"
+92-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:60:13-80
+93            android:screenOrientation="portrait"
+93-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:61:13-49
+94            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+94-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:62:13-70
+95        <activity
+95-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:63:9-66:73
+96            android:name="com.ourdevelops.ornidsmerchant.activity.TopupSaldoActivity"
+96-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:64:13-86
+97            android:screenOrientation="portrait"
+97-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:65:13-49
+98            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+98-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:66:13-70
+99        <activity
+99-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:68:9-72:73
+100            android:name="com.ourdevelops.ornidsmerchant.activity.StripePaymentActivity"
+100-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:69:13-59
+101            android:screenOrientation="portrait"
+101-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:70:13-49
+102            android:theme="@style/Login_phone"
+102-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:71:13-47
+103            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+103-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:72:13-70
+104        <activity
+104-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:74:9-77:73
+105            android:name="com.ourdevelops.ornidsmerchant.activity.EditmitraActivity"
+105-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:75:13-85
+106            android:screenOrientation="portrait"
+106-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:76:13-49
+107            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+107-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:77:13-70
+108        <activity
+108-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:79:9-83:73
+109            android:name="com.ourdevelops.ornidsmerchant.activity.CreditcardActivity"
+109-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:80:13-86
+110            android:screenOrientation="portrait"
+110-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:81:13-49
+111            android:theme="@style/Login_phone"
+111-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:82:13-47
+112            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+112-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:83:13-70
+113        <activity
+113-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:84:9-88:73
+114            android:name="com.ourdevelops.ornidsmerchant.activity.ChangepassActivity"
+114-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:85:13-86
+115            android:screenOrientation="portrait"
+115-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:86:13-49
+116            android:theme="@style/Login_phone"
+116-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:87:13-47
+117            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+117-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:88:13-70
+118        <activity
+118-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:89:9-93:73
+119            android:name="com.ourdevelops.ornidsmerchant.activity.WithdrawActivity"
+119-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:90:13-84
+120            android:screenOrientation="portrait"
+120-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:91:13-49
+121            android:theme="@style/Login_phone"
+121-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:92:13-47
+122            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+122-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:93:13-70
+123        <activity
+123-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:94:9-97:73
+124            android:name="com.ourdevelops.ornidsmerchant.activity.WalletActivity"
+124-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:95:13-82
+125            android:screenOrientation="portrait"
+125-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:96:13-49
+126            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+126-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:97:13-70
+127        <activity
+127-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:98:9-101:50
+128            android:name="com.ourdevelops.ornidsmerchant.activity.PrivacyActivity"
+128-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:99:13-83
+129            android:screenOrientation="portrait"
+129-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:100:13-49
+130            android:theme="@style/noActionBar" />
+130-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:101:13-47
+131        <activity
+131-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:102:9-104:52
+132            android:name="com.ourdevelops.ornidsmerchant.activity.MenuActivity"
+132-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:103:13-80
+133            android:screenOrientation="portrait" />
+133-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:104:13-49
+134        <activity
+134-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:105:9-107:52
+135            android:name="com.ourdevelops.ornidsmerchant.activity.EditmenuActivity"
+135-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:106:13-84
+136            android:screenOrientation="portrait" />
+136-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:107:13-49
+137        <activity
+137-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:108:9-111:50
+138            android:name="com.ourdevelops.ornidsmerchant.activity.RegisterActivity"
+138-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:109:13-84
+139            android:screenOrientation="portrait"
+139-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:110:13-49
+140            android:theme="@style/noActionBar" />
+140-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:111:13-47
+141        <activity
+141-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:112:9-116:73
+142            android:name="com.ourdevelops.ornidsmerchant.activity.LoginActivity"
+142-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:113:13-81
+143            android:screenOrientation="portrait"
+143-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:114:13-49
+144            android:theme="@style/Login_phone"
+144-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:115:13-47
+145            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+145-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:116:13-70
+146        <activity
+146-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:117:9-121:73
+147            android:name="com.ourdevelops.ornidsmerchant.activity.ForgotPassActivity"
+147-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:118:13-86
+148            android:screenOrientation="portrait"
+148-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:119:13-49
+149            android:theme="@style/Login_phone"
+149-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:120:13-47
+150            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+150-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:121:13-70
+151        <activity
+151-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:122:9-125:49
+152            android:name="com.ourdevelops.ornidsmerchant.activity.MainActivity"
+152-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:123:13-80
+153            android:screenOrientation="portrait"
+153-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:124:13-49
+154            android:theme="@style/Login_phone" />
+154-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:125:13-47
+155
+156        <provider
+156-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:127:9-135:20
+157            android:name="androidx.core.content.FileProvider"
+157-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:128:13-62
+158            android:authorities="com.ourdevelops.ornidsmerchant.fileprovider"
+158-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:129:13-78
+159            android:exported="false"
+159-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:130:13-37
+160            android:grantUriPermissions="true" >
+160-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:131:13-47
+161            <meta-data
+161-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:132:13-134:54
+162                android:name="android.support.FILE_PROVIDER_PATHS"
+162-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:133:17-67
+163                android:resource="@xml/file_paths" />
+163-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:134:17-51
+164        </provider>
+165
+166        <uses-library
+166-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:137:9-139:40
+167            android:name="org.apache.http.legacy"
+167-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:138:13-50
+168            android:required="false" />
+168-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:139:13-37
+169
+170        <activity
+170-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\347e27e945c6e3067b78ea8f5bd9ca12\play-services-auth-18.0.0\AndroidManifest.xml:23:9-27:75
+171            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+171-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\347e27e945c6e3067b78ea8f5bd9ca12\play-services-auth-18.0.0\AndroidManifest.xml:24:13-93
+172            android:excludeFromRecents="true"
+172-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\347e27e945c6e3067b78ea8f5bd9ca12\play-services-auth-18.0.0\AndroidManifest.xml:25:13-46
+173            android:exported="false"
+173-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\347e27e945c6e3067b78ea8f5bd9ca12\play-services-auth-18.0.0\AndroidManifest.xml:26:13-37
+174            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+174-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\347e27e945c6e3067b78ea8f5bd9ca12\play-services-auth-18.0.0\AndroidManifest.xml:27:13-72
+175        <!--
+176            Service handling Google Sign-In user revocation. For apps that do not integrate with
+177            Google Sign-In, this service will never be started.
+178        -->
+179        <service
+179-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\347e27e945c6e3067b78ea8f5bd9ca12\play-services-auth-18.0.0\AndroidManifest.xml:33:9-36:110
+180            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+180-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\347e27e945c6e3067b78ea8f5bd9ca12\play-services-auth-18.0.0\AndroidManifest.xml:34:13-89
+181            android:exported="true"
+181-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\347e27e945c6e3067b78ea8f5bd9ca12\play-services-auth-18.0.0\AndroidManifest.xml:35:13-36
+182            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+182-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\347e27e945c6e3067b78ea8f5bd9ca12\play-services-auth-18.0.0\AndroidManifest.xml:36:13-107
+183        <service
+183-->[com.google.firebase:firebase-database:19.3.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\b71fa8bde7a50c994ee4cf8afc7f1f37\firebase-database-19.3.0\AndroidManifest.xml:29:9-35:19
+184            android:name="com.google.firebase.components.ComponentDiscoveryService"
+184-->[com.google.firebase:firebase-database:19.3.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\b71fa8bde7a50c994ee4cf8afc7f1f37\firebase-database-19.3.0\AndroidManifest.xml:30:13-84
+185            android:directBootAware="true"
+185-->[com.google.firebase:firebase-common:19.3.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\5b57f07e420fecbdd9c6444dd5dbe60b\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+186            android:exported="false" >
+186-->[com.google.firebase:firebase-database:19.3.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\b71fa8bde7a50c994ee4cf8afc7f1f37\firebase-database-19.3.0\AndroidManifest.xml:31:13-37
+187            <meta-data
+187-->[com.google.firebase:firebase-database:19.3.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\b71fa8bde7a50c994ee4cf8afc7f1f37\firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+188                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+188-->[com.google.firebase:firebase-database:19.3.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\b71fa8bde7a50c994ee4cf8afc7f1f37\firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+189                android:value="com.google.firebase.components.ComponentRegistrar" />
+189-->[com.google.firebase:firebase-database:19.3.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\b71fa8bde7a50c994ee4cf8afc7f1f37\firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+190            <meta-data
+190-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\341a34e286764900325abe0e9eb52602\firebase-storage-19.1.1\AndroidManifest.xml:33:13-35:85
+191                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+191-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\341a34e286764900325abe0e9eb52602\firebase-storage-19.1.1\AndroidManifest.xml:34:17-107
+192                android:value="com.google.firebase.components.ComponentRegistrar" />
+192-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\341a34e286764900325abe0e9eb52602\firebase-storage-19.1.1\AndroidManifest.xml:35:17-82
+193            <meta-data
+193-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9c9ff208d28e550987d4e3008e47f625\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:39:13-41:85
+194                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+194-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9c9ff208d28e550987d4e3008e47f625\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:40:17-119
+195                android:value="com.google.firebase.components.ComponentRegistrar" />
+195-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9c9ff208d28e550987d4e3008e47f625\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:41:17-82
+196            <meta-data
+196-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\bbc5c731428a5ecd5a47a670dc4d2eb3\firebase-auth-19.3.1\AndroidManifest.xml:36:13-38:85
+197                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+197-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\bbc5c731428a5ecd5a47a670dc4d2eb3\firebase-auth-19.3.1\AndroidManifest.xml:37:17-109
+198                android:value="com.google.firebase.components.ComponentRegistrar" />
+198-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\bbc5c731428a5ecd5a47a670dc4d2eb3\firebase-auth-19.3.1\AndroidManifest.xml:38:17-82
+199            <meta-data
+199-->[com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\133bd6fd95d0b7dae7176b4f0c9a2145\play-services-measurement-api-17.4.2\AndroidManifest.xml:30:13-32:85
+200                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+200-->[com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\133bd6fd95d0b7dae7176b4f0c9a2145\play-services-measurement-api-17.4.2\AndroidManifest.xml:31:17-139
+201                android:value="com.google.firebase.components.ComponentRegistrar" />
+201-->[com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\133bd6fd95d0b7dae7176b4f0c9a2145\play-services-measurement-api-17.4.2\AndroidManifest.xml:32:17-82
+202            <meta-data
+202-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\d8819ce14b04735c24126163bbe01372\firebase-iid-20.2.0\AndroidManifest.xml:32:13-34:85
+203                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+203-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\d8819ce14b04735c24126163bbe01372\firebase-iid-20.2.0\AndroidManifest.xml:33:17-96
+204                android:value="com.google.firebase.components.ComponentRegistrar" />
+204-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\d8819ce14b04735c24126163bbe01372\firebase-iid-20.2.0\AndroidManifest.xml:34:17-82
+205            <meta-data
+205-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\4fc70ac73937a32079d494e7b7afe827\firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+206                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+206-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\4fc70ac73937a32079d494e7b7afe827\firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+207                android:value="com.google.firebase.components.ComponentRegistrar" />
+207-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\4fc70ac73937a32079d494e7b7afe827\firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+208            <meta-data
+208-->[com.google.firebase:firebase-installations:16.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\35d3af901757324bfa029e430f8a41fc\firebase-installations-16.3.1\AndroidManifest.xml:17:13-19:85
+209                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+209-->[com.google.firebase:firebase-installations:16.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\35d3af901757324bfa029e430f8a41fc\firebase-installations-16.3.1\AndroidManifest.xml:18:17-127
+210                android:value="com.google.firebase.components.ComponentRegistrar" />
+210-->[com.google.firebase:firebase-installations:16.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\35d3af901757324bfa029e430f8a41fc\firebase-installations-16.3.1\AndroidManifest.xml:19:17-82
+211        </service>
+212        <!--
+213             FirebaseMessagingService performs security checks at runtime,
+214             but set to not exported to explicitly avoid allowing another app to call it.
+215        -->
+216        <service
+216-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9c9ff208d28e550987d4e3008e47f625\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:28:9-35:19
+217            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+217-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9c9ff208d28e550987d4e3008e47f625\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:29:13-82
+218            android:directBootAware="true"
+218-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9c9ff208d28e550987d4e3008e47f625\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:30:13-43
+219            android:exported="false" >
+219-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9c9ff208d28e550987d4e3008e47f625\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:31:13-37
+220            <intent-filter android:priority="-500" >
+220-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:48:13-50:29
+221                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+221-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:49:17-78
+221-->D:\myDesktop\android\teamPro\taxi28\merchantapp\app\src\main\AndroidManifest.xml:49:25-75
+222            </intent-filter>
+223        </service>
+224
+225        <activity
+225-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\bbc5c731428a5ecd5a47a670dc4d2eb3\firebase-auth-19.3.1\AndroidManifest.xml:24:9-31:50
+226            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+226-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\bbc5c731428a5ecd5a47a670dc4d2eb3\firebase-auth-19.3.1\AndroidManifest.xml:25:13-85
+227            android:excludeFromRecents="true"
+227-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\bbc5c731428a5ecd5a47a670dc4d2eb3\firebase-auth-19.3.1\AndroidManifest.xml:26:13-46
+228            android:exported="true"
+228-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\bbc5c731428a5ecd5a47a670dc4d2eb3\firebase-auth-19.3.1\AndroidManifest.xml:27:13-36
+229            android:launchMode="singleTask"
+229-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\bbc5c731428a5ecd5a47a670dc4d2eb3\firebase-auth-19.3.1\AndroidManifest.xml:28:13-44
+230            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+230-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\bbc5c731428a5ecd5a47a670dc4d2eb3\firebase-auth-19.3.1\AndroidManifest.xml:29:13-102
+231            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+231-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\bbc5c731428a5ecd5a47a670dc4d2eb3\firebase-auth-19.3.1\AndroidManifest.xml:30:13-72
+232        <activity
+232-->[com.payumoney.sdkui:plug-n-play:1.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\485536be3c1acc195396b57f3bf579eb\jetified-plug-n-play-1.6.0\AndroidManifest.xml:19:9-24:55
+233            android:name="com.payumoney.sdkui.ui.activities.PayUmoneyActivity"
+233-->[com.payumoney.sdkui:plug-n-play:1.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\485536be3c1acc195396b57f3bf579eb\jetified-plug-n-play-1.6.0\AndroidManifest.xml:20:13-79
+234            android:label="@string/title_activity_citrus"
+234-->[com.payumoney.sdkui:plug-n-play:1.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\485536be3c1acc195396b57f3bf579eb\jetified-plug-n-play-1.6.0\AndroidManifest.xml:21:13-58
+235            android:screenOrientation="portrait"
+235-->[com.payumoney.sdkui:plug-n-play:1.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\485536be3c1acc195396b57f3bf579eb\jetified-plug-n-play-1.6.0\AndroidManifest.xml:22:13-49
+236            android:theme="@style/PayumoneyAppTheme"
+236-->[com.payumoney.sdkui:plug-n-play:1.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\485536be3c1acc195396b57f3bf579eb\jetified-plug-n-play-1.6.0\AndroidManifest.xml:23:13-53
+237            android:windowSoftInputMode="adjustPan" />
+237-->[com.payumoney.sdkui:plug-n-play:1.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\485536be3c1acc195396b57f3bf579eb\jetified-plug-n-play-1.6.0\AndroidManifest.xml:24:13-52
+238        <activity
+238-->[com.payumoney.sdkui:plug-n-play:1.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\485536be3c1acc195396b57f3bf579eb\jetified-plug-n-play-1.6.0\AndroidManifest.xml:25:9-28:56
+239            android:name="com.payumoney.sdkui.ui.activities.ReviewOrderActivity"
+239-->[com.payumoney.sdkui:plug-n-play:1.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\485536be3c1acc195396b57f3bf579eb\jetified-plug-n-play-1.6.0\AndroidManifest.xml:26:13-81
+240            android:screenOrientation="portrait"
+240-->[com.payumoney.sdkui:plug-n-play:1.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\485536be3c1acc195396b57f3bf579eb\jetified-plug-n-play-1.6.0\AndroidManifest.xml:27:13-49
+241            android:theme="@style/PayumoneyAppTheme" />
+241-->[com.payumoney.sdkui:plug-n-play:1.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\485536be3c1acc195396b57f3bf579eb\jetified-plug-n-play-1.6.0\AndroidManifest.xml:28:13-53
+242        <activity
+242-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\26ba4eafd6ecb8562b71ccf56f35ccfb\jetified-mapbox-android-plugin-places-v9-0.12.0\AndroidManifest.xml:10:9-14:68
+243            android:name="com.mapbox.mapboxsdk.plugins.places.autocomplete.ui.PlaceAutocompleteActivity"
+243-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\26ba4eafd6ecb8562b71ccf56f35ccfb\jetified-mapbox-android-plugin-places-v9-0.12.0\AndroidManifest.xml:11:13-105
+244            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+244-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\26ba4eafd6ecb8562b71ccf56f35ccfb\jetified-mapbox-android-plugin-places-v9-0.12.0\AndroidManifest.xml:12:13-122
+245            android:theme="@style/mapbox_plugins_translucent"
+245-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\26ba4eafd6ecb8562b71ccf56f35ccfb\jetified-mapbox-android-plugin-places-v9-0.12.0\AndroidManifest.xml:13:13-62
+246            android:windowSoftInputMode="stateVisible|adjustPan" />
+246-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\26ba4eafd6ecb8562b71ccf56f35ccfb\jetified-mapbox-android-plugin-places-v9-0.12.0\AndroidManifest.xml:14:13-65
+247        <activity
+247-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\26ba4eafd6ecb8562b71ccf56f35ccfb\jetified-mapbox-android-plugin-places-v9-0.12.0\AndroidManifest.xml:15:9-17:125
+248            android:name="com.mapbox.mapboxsdk.plugins.places.picker.ui.PlacePickerActivity"
+248-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\26ba4eafd6ecb8562b71ccf56f35ccfb\jetified-mapbox-android-plugin-places-v9-0.12.0\AndroidManifest.xml:16:13-93
+249            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+249-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\26ba4eafd6ecb8562b71ccf56f35ccfb\jetified-mapbox-android-plugin-places-v9-0.12.0\AndroidManifest.xml:17:13-122
+250        <activity
+250-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:10:9-12:57
+251            android:name="com.stripe.android.view.AddPaymentMethodActivity"
+251-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:11:13-76
+252            android:theme="@style/StripeDefaultTheme" />
+252-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:12:13-54
+253        <activity
+253-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:13:9-15:57
+254            android:name="com.stripe.android.view.PaymentMethodsActivity"
+254-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:14:13-74
+255            android:theme="@style/StripeDefaultTheme" />
+255-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:15:13-54
+256        <activity
+256-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:16:9-18:57
+257            android:name="com.stripe.android.view.PaymentFlowActivity"
+257-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:17:13-71
+258            android:theme="@style/StripeDefaultTheme" />
+258-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:18:13-54
+259        <activity
+259-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:19:9-22:58
+260            android:name="com.stripe.android.view.PaymentAuthWebViewActivity"
+260-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:20:13-78
+261            android:theme="@style/StripeDefaultTheme"
+261-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:21:13-54
+262            android:windowSoftInputMode="adjustResize" />
+262-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:22:13-55
+263        <activity
+263-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:23:9-25:61
+264            android:name="com.stripe.android.view.PaymentRelayActivity"
+264-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:24:13-72
+265            android:theme="@style/StripeTransparentTheme" />
+265-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:25:13-58
+266        <activity
+266-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:26:9-28:57
+267            android:name="com.stripe.android.view.Stripe3ds2CompletionActivity"
+267-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:27:13-80
+268            android:theme="@style/StripeDefaultTheme" />
+268-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:28:13-54
+269        <activity
+269-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:29:9-31:69
+270            android:name="com.stripe.android.paymentsheet.PaymentSheetActivity"
+270-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:30:13-80
+271            android:theme="@style/StripePaymentSheetDefaultTheme" />
+271-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:31:13-66
+272        <activity
+272-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:32:9-34:69
+273            android:name="com.stripe.android.paymentsheet.PaymentOptionsActivity"
+273-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:33:13-82
+274            android:theme="@style/StripePaymentSheetDefaultTheme" />
+274-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:34:13-66
+275        <activity
+275-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:35:9-37:66
+276            android:name="com.stripe.android.googlepay.StripeGooglePayActivity"
+276-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:36:13-80
+277            android:theme="@style/StripeGooglePayDefaultTheme" />
+277-->[com.stripe:stripe-android:16.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\3e1c6ddd80de3a9b02eb230e699f3b41\stripe-android-16.5.0\AndroidManifest.xml:37:13-63
+278        <activity
+278-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:31:9-34:72
+279            android:name="com.payumoney.core.SdkWebViewActivityNew"
+279-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:32:13-68
+280            android:screenOrientation="portrait"
+280-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:33:13-49
+281            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+281-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:34:13-69
+282        <activity
+282-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:35:9-40:59
+283            android:name="com.payu.custombrowser.CBActivity"
+283-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:36:13-61
+284            android:screenOrientation="portrait"
+284-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:37:13-49
+285            android:theme="@style/Theme.AppCompat"
+285-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:38:13-51
+286            android:windowSoftInputMode="stateAlwaysHidden" />
+286-->[com.payumoney.core:payumoney-sdk:7.6.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\1661dce9c0e7b9c4f2cb403c7161dd39\jetified-payumoney-sdk-7.6.0\AndroidManifest.xml:39:13-60
+287        <activity
+287-->[com.stripe:stripe-3ds2-android:5.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\a265a84233b4be3cbfa2e5787aa9f4f6\stripe-3ds2-android-5.2.0\AndroidManifest.xml:10:9-12:54
+288            android:name="com.stripe.android.stripe3ds2.views.ChallengeActivity"
+288-->[com.stripe:stripe-3ds2-android:5.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\a265a84233b4be3cbfa2e5787aa9f4f6\stripe-3ds2-android-5.2.0\AndroidManifest.xml:11:13-81
+289            android:theme="@style/Stripe3DS2Theme" />
+289-->[com.stripe:stripe-3ds2-android:5.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\a265a84233b4be3cbfa2e5787aa9f4f6\stripe-3ds2-android-5.2.0\AndroidManifest.xml:12:13-51
+290        <activity
+290-->[com.stripe:stripe-3ds2-android:5.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\a265a84233b4be3cbfa2e5787aa9f4f6\stripe-3ds2-android-5.2.0\AndroidManifest.xml:13:9-15:54
+291            android:name="com.stripe.android.stripe3ds2.views.ChallengeProgressActivity"
+291-->[com.stripe:stripe-3ds2-android:5.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\a265a84233b4be3cbfa2e5787aa9f4f6\stripe-3ds2-android-5.2.0\AndroidManifest.xml:14:13-89
+292            android:theme="@style/Stripe3DS2Theme" />
+292-->[com.stripe:stripe-3ds2-android:5.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\a265a84233b4be3cbfa2e5787aa9f4f6\stripe-3ds2-android-5.2.0\AndroidManifest.xml:15:13-51
+293
+294        <service android:name="com.payu.custombrowser.services.SnoozeService" />
+294-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:23:9-81
+294-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:23:18-78
+295
+296        <activity android:name="com.payu.custombrowser.PreLollipopPaymentsActivity" >
+296-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:25:9-42:20
+296-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:25:19-84
+297            <intent-filter>
+297-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:26:13-33:29
+298                <data android:scheme="com.ourdevelops.ornidsmerchant.success" />
+298-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:27:17-67
+298-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:27:23-64
+299
+300                <action android:name="android.intent.action.VIEW" />
+300-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:29:17-69
+300-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:29:25-66
+301
+302                <category android:name="android.intent.category.DEFAULT" />
+302-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:31:17-76
+302-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:31:27-73
+303                <category android:name="android.intent.category.BROWSABLE" />
+303-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:32:17-78
+303-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:32:27-75
+304            </intent-filter>
+305            <intent-filter>
+305-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:34:13-41:29
+306                <data android:scheme="com.ourdevelops.ornidsmerchant.failure" />
+306-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:27:17-67
+306-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:27:23-64
+307
+308                <action android:name="android.intent.action.VIEW" />
+308-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:29:17-69
+308-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:29:25-66
+309
+310                <category android:name="android.intent.category.DEFAULT" />
+310-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:31:17-76
+310-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:31:27-73
+311                <category android:name="android.intent.category.BROWSABLE" />
+311-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:32:17-78
+311-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:32:27-75
+312            </intent-filter>
+313        </activity>
+314        <activity android:name="com.payu.custombrowser.PrePaymentsActivity" />
+314-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:43:9-79
+314-->[com.payu.custombrowser:payu-custom-browser:7.5.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\459125672ad6f41a7157999b8142a570\jetified-payu-custom-browser-7.5.1\AndroidManifest.xml:43:19-76
+315        <activity
+315-->[com.payu.upisdk:upisdk:1.0.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\fe94e7b8c5e2422aced85dc4833ff46d\jetified-upisdk-1.0.2\AndroidManifest.xml:14:9-17:63
+316            android:name="com.payu.upisdk.upiintent.PaymentResponseUpiSdkActivity"
+316-->[com.payu.upisdk:upisdk:1.0.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\fe94e7b8c5e2422aced85dc4833ff46d\jetified-upisdk-1.0.2\AndroidManifest.xml:15:13-83
+317            android:theme="@style/Theme.AppCompat.Transparent.NoActionBar"
+317-->[com.payu.upisdk:upisdk:1.0.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\fe94e7b8c5e2422aced85dc4833ff46d\jetified-upisdk-1.0.2\AndroidManifest.xml:16:13-75
+318            android:windowSoftInputMode="stateAlwaysHidden" />
+318-->[com.payu.upisdk:upisdk:1.0.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\fe94e7b8c5e2422aced85dc4833ff46d\jetified-upisdk-1.0.2\AndroidManifest.xml:17:13-60
+319        <activity android:name="com.paypal.android.sdk.payments.PaymentActivity" />
+319-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:13:9-84
+319-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:13:19-81
+320        <activity android:name="com.paypal.android.sdk.payments.PaymentMethodActivity" />
+320-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:14:9-90
+320-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:14:19-87
+321        <activity android:name="com.paypal.android.sdk.payments.PaymentConfirmActivity" />
+321-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:15:9-91
+321-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:15:19-88
+322        <activity android:name="com.paypal.android.sdk.payments.LoginActivity" />
+322-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:16:9-82
+322-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:16:19-79
+323        <activity android:name="com.paypal.android.sdk.payments.PayPalFuturePaymentActivity" />
+323-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:17:9-96
+323-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:17:19-93
+324        <activity android:name="com.paypal.android.sdk.payments.FuturePaymentConsentActivity" />
+324-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:18:9-97
+324-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:18:19-94
+325        <activity android:name="com.paypal.android.sdk.payments.FuturePaymentInfoActivity" />
+325-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:19:9-94
+325-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:19:19-91
+326        <activity android:name="com.paypal.android.sdk.payments.PayPalProfileSharingActivity" />
+326-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:20:9-97
+326-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:20:19-94
+327        <activity android:name="com.paypal.android.sdk.payments.ProfileSharingConsentActivity" />
+327-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:21:9-98
+327-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:21:19-95
+328
+329        <service
+329-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:23:9-25:40
+330            android:name="com.paypal.android.sdk.payments.PayPalService"
+330-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:24:13-73
+331            android:exported="false" />
+331-->[com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\dda4d0ca3f6386e5542a2a40dce7e5e0\paypal-android-sdk-2.15.3\AndroidManifest.xml:25:13-37
+332
+333        <provider
+333-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\ac54ed631162b22cd4acf7819f852890\jetified-mapbox-android-telemetry-6.1.0\AndroidManifest.xml:18:9-22:39
+334            android:name="com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider"
+334-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\ac54ed631162b22cd4acf7819f852890\jetified-mapbox-android-telemetry-6.1.0\AndroidManifest.xml:19:13-93
+335            android:authorities="com.ourdevelops.ornidsmerchant.mapboxtelemetryinitprovider"
+335-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\ac54ed631162b22cd4acf7819f852890\jetified-mapbox-android-telemetry-6.1.0\AndroidManifest.xml:20:13-79
+336            android:exported="false"
+336-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\ac54ed631162b22cd4acf7819f852890\jetified-mapbox-android-telemetry-6.1.0\AndroidManifest.xml:21:13-37
+337            android:initOrder="100" />
+337-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\ac54ed631162b22cd4acf7819f852890\jetified-mapbox-android-telemetry-6.1.0\AndroidManifest.xml:22:13-36
+338
+339        <service
+339-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\ac54ed631162b22cd4acf7819f852890\jetified-mapbox-android-telemetry-6.1.0\AndroidManifest.xml:24:9-26:72
+340            android:name="com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService"
+340-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\ac54ed631162b22cd4acf7819f852890\jetified-mapbox-android-telemetry-6.1.0\AndroidManifest.xml:25:13-93
+341            android:permission="android.permission.BIND_JOB_SERVICE" />
+341-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\ac54ed631162b22cd4acf7819f852890\jetified-mapbox-android-telemetry-6.1.0\AndroidManifest.xml:26:13-69
+342
+343        <receiver
+343-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\d8819ce14b04735c24126163bbe01372\firebase-iid-20.2.0\AndroidManifest.xml:37:9-44:20
+344            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+344-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\d8819ce14b04735c24126163bbe01372\firebase-iid-20.2.0\AndroidManifest.xml:38:13-78
+345            android:exported="true"
+345-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\d8819ce14b04735c24126163bbe01372\firebase-iid-20.2.0\AndroidManifest.xml:39:13-36
+346            android:permission="com.google.android.c2dm.permission.SEND" >
+346-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\d8819ce14b04735c24126163bbe01372\firebase-iid-20.2.0\AndroidManifest.xml:40:13-73
+347            <intent-filter>
+347-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\d8819ce14b04735c24126163bbe01372\firebase-iid-20.2.0\AndroidManifest.xml:41:13-43:29
+348                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+348-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\d8819ce14b04735c24126163bbe01372\firebase-iid-20.2.0\AndroidManifest.xml:42:17-81
+348-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\d8819ce14b04735c24126163bbe01372\firebase-iid-20.2.0\AndroidManifest.xml:42:25-78
+349            </intent-filter>
+350        </receiver>
+351        <receiver
+351-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:29:9-33:20
+352            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+352-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:30:13-85
+353            android:enabled="true"
+353-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:31:13-35
+354            android:exported="false" >
+354-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:32:13-37
+355        </receiver>
+356
+357        <service
+357-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:35:9-38:40
+358            android:name="com.google.android.gms.measurement.AppMeasurementService"
+358-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:36:13-84
+359            android:enabled="true"
+359-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:37:13-35
+360            android:exported="false" />
+360-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:38:13-37
+361        <service
+361-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:39:9-43:72
+362            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+362-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:40:13-87
+363            android:enabled="true"
+363-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:41:13-35
+364            android:exported="false"
+364-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:42:13-37
+365            android:permission="android.permission.BIND_JOB_SERVICE" />
+365-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9ab021a2a44dad71d44f2182ece954fb\play-services-measurement-17.4.2\AndroidManifest.xml:43:13-69
+366
+367        <activity
+367-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\2cf9cb14c83506ad85b604c24eb87ec6\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+368            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+368-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\2cf9cb14c83506ad85b604c24eb87ec6\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+369            android:exported="false"
+369-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\2cf9cb14c83506ad85b604c24eb87ec6\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+370            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+370-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\2cf9cb14c83506ad85b604c24eb87ec6\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+371
+372        <provider
+372-->[com.google.firebase:firebase-common:19.3.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\5b57f07e420fecbdd9c6444dd5dbe60b\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+373            android:name="com.google.firebase.provider.FirebaseInitProvider"
+373-->[com.google.firebase:firebase-common:19.3.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\5b57f07e420fecbdd9c6444dd5dbe60b\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+374            android:authorities="com.ourdevelops.ornidsmerchant.firebaseinitprovider"
+374-->[com.google.firebase:firebase-common:19.3.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\5b57f07e420fecbdd9c6444dd5dbe60b\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+375            android:exported="false"
+375-->[com.google.firebase:firebase-common:19.3.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\5b57f07e420fecbdd9c6444dd5dbe60b\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+376            android:initOrder="100" />
+376-->[com.google.firebase:firebase-common:19.3.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\5b57f07e420fecbdd9c6444dd5dbe60b\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+377
+378        <meta-data
+378-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\663d7b25934f6b70772e55212769b36b\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+379            android:name="com.google.android.gms.version"
+379-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\663d7b25934f6b70772e55212769b36b\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+380            android:value="@integer/google_play_services_version" />
+380-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\663d7b25934f6b70772e55212769b36b\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+381
+382        <service
+382-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\a2277629d5fd2b1e9fe6df494a917314\transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+383            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+383-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\a2277629d5fd2b1e9fe6df494a917314\transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+384            android:exported="false" >
+384-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\a2277629d5fd2b1e9fe6df494a917314\transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+385            <meta-data
+385-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\a2277629d5fd2b1e9fe6df494a917314\transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+386                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+386-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\a2277629d5fd2b1e9fe6df494a917314\transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+387                android:value="cct" />
+387-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\a2277629d5fd2b1e9fe6df494a917314\transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+388        </service>
+389        <service
+389-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\7cf09dee34b37dfdceb476505b0aa56d\transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+390            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+390-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\7cf09dee34b37dfdceb476505b0aa56d\transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+391            android:exported="false"
+391-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\7cf09dee34b37dfdceb476505b0aa56d\transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+392            android:permission="android.permission.BIND_JOB_SERVICE" >
+392-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\7cf09dee34b37dfdceb476505b0aa56d\transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+393        </service>
+394
+395        <receiver
+395-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\7cf09dee34b37dfdceb476505b0aa56d\transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+396            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+396-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\7cf09dee34b37dfdceb476505b0aa56d\transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
+397            android:exported="false" />
+397-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\7cf09dee34b37dfdceb476505b0aa56d\transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+398
+399        <provider
+399-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9dfe4a991dc808707d6fb4a32ecb4334\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+400            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+400-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9dfe4a991dc808707d6fb4a32ecb4334\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+401            android:authorities="com.ourdevelops.ornidsmerchant.lifecycle-process"
+401-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9dfe4a991dc808707d6fb4a32ecb4334\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+402            android:exported="false"
+402-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9dfe4a991dc808707d6fb4a32ecb4334\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+403            android:multiprocess="true" />
+403-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\9dfe4a991dc808707d6fb4a32ecb4334\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+404
+405        <activity
+405-->[io.card:android-sdk:5.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\2d4c6f655b0aa2927ff2cf479e97d663\jetified-android-sdk-5.5.0\AndroidManifest.xml:20:9-22:66
+406            android:name="io.card.payment.CardIOActivity"
+406-->[io.card:android-sdk:5.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\2d4c6f655b0aa2927ff2cf479e97d663\jetified-android-sdk-5.5.0\AndroidManifest.xml:21:13-58
+407            android:configChanges="keyboardHidden|orientation" />
+407-->[io.card:android-sdk:5.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\2d4c6f655b0aa2927ff2cf479e97d663\jetified-android-sdk-5.5.0\AndroidManifest.xml:22:13-63
+408        <activity android:name="io.card.payment.DataEntryActivity" />
+408-->[io.card:android-sdk:5.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\2d4c6f655b0aa2927ff2cf479e97d663\jetified-android-sdk-5.5.0\AndroidManifest.xml:23:9-70
+408-->[io.card:android-sdk:5.5.0] C:\Users\99899\.gradle\caches\transforms-2\files-2.1\2d4c6f655b0aa2927ff2cf479e97d663\jetified-android-sdk-5.5.0\AndroidManifest.xml:23:19-67
+409    </application>
+410
+411</manifest>

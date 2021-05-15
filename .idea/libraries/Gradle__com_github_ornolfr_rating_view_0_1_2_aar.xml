@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ornolfr:rating-view:0.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0554e674ecdcb8602006a7b0eaa41d44/jetified-rating-view-0.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0554e674ecdcb8602006a7b0eaa41d44/jetified-rating-view-0.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0554e674ecdcb8602006a7b0eaa41d44/jetified-rating-view-0.1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ornolfr/rating-view/0.1.2/a5b8397c80d58baaab56cd22b392c7d21b1f8eca/rating-view-0.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ornolfr/rating-view/0.1.2/5af06910960128b6fa2bec0615dba6cb490ad74c/rating-view-0.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -7,9 +7,9 @@ buildscript {
         google()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:4.2.0'
+        classpath 'com.android.tools.build:gradle:4.2.1'
         classpath 'com.jakewharton:butterknife-gradle-plugin:9.0.0-rc2'
-        classpath 'com.google.gms:google-services:4.3.5'
+        classpath 'com.google.gms:google-services:4.3.8'
         classpath 'io.realm:realm-gradle-plugin:7.0.0'
 
         // NOTE: Do not place your application dependencies here; they belong
@@ -25,8 +25,8 @@ allprojects {
                 basic(BasicAuthentication)
             }
             credentials {
-                username = 'mapbox'
-                password = project.properties['MAPBOX_DOWNLOADS_TOKEN'] ?: ""
+                username = 'bbosmedia'
+                password = "pk.eyJ1IjoiYmJvc21lZGlhIiwiYSI6ImNrbnIxNXh5MzIxZXAybnBlcXphY3F2djUifQ.asOYUCmY2vUDnvnNQLbC2A"
             }
         }
         //noinspection JcenterRepositoryObsolete

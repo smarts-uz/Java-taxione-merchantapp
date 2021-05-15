@@ -10,7 +10,7 @@ import java.util.Locale;
 public class Constant {
 
     private static final String BASE_URL = "http://taxione.teampro.uz/";
-    public static final String FCM_KEY = "AAAAngoZgHI:APA91bGEs_OFHyU_kcEcWAm4TyK5njLZ6QQXLLJBqAp195N6aFjZR4wcG1OiMdkvJToYI3rylpDY8LQWhRy2MYmxRdQHNOwogjUdI4r2xgTJubO-AIgw8NPclX-h80-6Op-_qP818vR1";
+    public static final String FCM_KEY = "AAAAFOi715E:APA91bF2ztMwAT_HHxgno3tb9fdnt2p82DwzABOxjoe8lNg9VVST8RXLOUc_mZlv-zgxgxMzHDJUMHgTrLFG1HFoROjKGE37l7ETXdWhuQFg8uQx9rx1SEcVhO9HzalBXxNClrLykJve";
     public static final String CONNECTION = BASE_URL + "api/";
     public static final String IMAGESDRIVER = BASE_URL + "images/driverphoto/";
     public static final String IMAGESMERCHANT = BASE_URL + "images/merchant/";

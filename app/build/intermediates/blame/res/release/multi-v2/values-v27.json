@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\myDesktop\\android\\teamPro\\taxi28\\merchantapp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v27\\values-v27.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\99899\\.gradle\\caches\\transforms-2\\files-2.1\\fe94e7b8c5e2422aced85dc4833ff46d\\jetified-upisdk-1.0.2\\res\\values-v27\\values-v27.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "612"
+                    }
+                }
+            ]
+        }
+    ]
+}

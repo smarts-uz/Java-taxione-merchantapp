@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\myDesktop\\android\\teamPro\\taxi28\\merchantapp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v22\\values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\99899\\.gradle\\caches\\transforms-2\\files-2.1\\c80df986bca7c0c2b0970a2cea387f11\\appcompat-1.2.0\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\99899\\.gradle\\caches\\transforms-2\\files-2.1\\459125672ad6f41a7157999b8142a570\\jetified-payu-custom-browser-7.5.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,148",
+                        "endLines": "2,5",
+                        "endColumns": "92,12",
+                        "endOffsets": "143,310"
+                    },
+                    "to": {
+                        "startLines": "14,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "901,994",
+                        "endLines": "14,17",
+                        "endColumns": "92,12",
+                        "endOffsets": "989,1156"
+                    }
+                }
+            ]
+        }
+    ]
+}

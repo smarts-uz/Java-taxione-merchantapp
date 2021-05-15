@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">89803970449-p7kmenpnaa6ns7ujppm4tmm5qg6cmrqu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://taxione-b7daf-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">89803970449</string>
+    <string name="google_api_key" translatable="false">AIzaSyATS_X9P-qqnG1-jvvUUOzOpcQ53KPQMDU</string>
+    <string name="google_app_id" translatable="false">1:89803970449:android:274663f42c6eb8cdaeac30</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyATS_X9P-qqnG1-jvvUUOzOpcQ53KPQMDU</string>
+    <string name="google_storage_bucket" translatable="false">taxione-b7daf.appspot.com</string>
+    <string name="project_id" translatable="false">taxione-b7daf</string>
+</resources>

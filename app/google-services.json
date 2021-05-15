@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "89803970449-nonfm0iq1l51qub6uckul5n3d9m3cues.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ourdevelops.taxione",
+            "certificate_hash": "199c2094b901db62653ca3b851d55a5f98c3d3e5"
+          }
+        },
+        {
           "client_id": "89803970449-o0ngmrlibgi6nf8rm08r33dvo1dse8fn.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -52,6 +60,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "89803970449-vdtgjtrki8bbapj1749t417jg46hg6an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ourdevelops.taxione1",
+            "certificate_hash": "199c2094b901db62653ca3b851d55a5f98c3d3e5"
+          }
+        },
+        {
           "client_id": "89803970449-p7kmenpnaa6ns7ujppm4tmm5qg6cmrqu.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -81,7 +97,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "89803970449-3f70k8ca63tp9ihao1bhlql7umffogt0.apps.googleusercontent.com",
+          "client_id": "89803970449-krt1ufa58b03o72pik1lorlid79qojpm.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.taxione.merchant",

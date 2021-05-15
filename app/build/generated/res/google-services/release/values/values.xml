@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">678774276210-gis6rreo8e34r3uiksjt73f6s91pgqij.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ortaxi-269fb-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">678774276210</string>
+    <string name="google_api_key" translatable="false">AIzaSyAvO0Rzaer-CBuivJxeZWso5ATxW-sQ9Dg</string>
+    <string name="google_app_id" translatable="false">1:678774276210:android:4806ffe0f89795b91642eb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAvO0Rzaer-CBuivJxeZWso5ATxW-sQ9Dg</string>
+    <string name="google_storage_bucket" translatable="false">ortaxi-269fb.appspot.com</string>
+    <string name="project_id" translatable="false">ortaxi-269fb</string>
+</resources>

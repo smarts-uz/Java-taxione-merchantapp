@@ -1,0 +1,1714 @@
+[
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wallet.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_wallet.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cancel.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_withdraw.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\withdraw.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pickup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_chataudio.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_chataudio.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_vehicle.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_vehicle.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_editlist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_editlist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_topup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_topup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_american_express.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\american_express.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_verifycode.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\verifycode.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_enablelocation.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\fragment_enablelocation.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_gender.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_gender.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_progress.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_progress.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_chat.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\background_chat.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_stripetopup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\stripetopup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ratelist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ratelist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cancel.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_payumoney.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\payumoney.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pickup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delivery.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delivery.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bordered.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\btn_bordered.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pesan.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_pesan.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edits.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_edits.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_target.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_target.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_profil.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_profil.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_web.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_web.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sharelist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_sharelist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delivery.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_delivery.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pesan_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pesan_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_profil_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_profil_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stripetopup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\stripetopup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ratelist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_ratelist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_word_map.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\word_map.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_vehicle.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_vehicle.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_camera.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_card.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_card.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_slide_two.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\slide_two.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_card.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_card.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rect.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\btn_rect.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_store.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_store.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_gallery.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_underdevelopment.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\underdevelopment.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pesan.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_pesan.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_word_map.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\word_map.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_stripe_payment.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_stripe_payment.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\color_selector.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\color\\selector.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_plus.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\btn_plus.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sharelist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_sharelist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chats.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_chats.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_detailwallet.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_detailwallet.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ratelist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_ratelist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_topup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_topup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_aboutus.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\dialog_aboutus.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banktransfer.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\banktransfer.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chat.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_chat.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_withdraw.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_withdraw.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delivery.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delivery.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_time.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_time.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_web.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_web.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_job.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_job.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_checklist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_checklist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_changepassword.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_changepassword.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_kalender.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_kalender.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_chat_my.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_chat_my.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edits.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_edits.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_topup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_topup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_creditcard.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_creditcard.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_lock.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_privacy_policy.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_privacy_policy.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_drivers.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_drivers.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_withdraw.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_withdraw.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\anim_from_right.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\anim\\from_right.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_price.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_price.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_price.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_price.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_tag.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tag.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_bank.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_bank.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pesan_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_pesan_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sharelist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_sharelist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loginmerchant.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\loginmerchant.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_web.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_web.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_profil.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_profil.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mic.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_offstock.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\offstock.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_lock.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_whitelogo.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\whitelogo.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mastercard.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\mastercard.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_price.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_price.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_profil_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_profil_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\raw_notification.mp3.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\raw\\notification.mp3"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cancel.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_slide_three.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\slide_three.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_transaksi_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_transaksi_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_privacy_policy.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_privacy_policy.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_price.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_price.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_gallery.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_store_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_store_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\anim_to_right.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\anim\\to_right.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_privacy_policy.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_privacy_policy.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_trash.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_trash.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_history.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_shimmercat.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\shimmercat.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_word_map.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\word_map.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_checklist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_checklist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_target.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_target.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_wallet.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_wallet.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_job.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_job.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visa_logo.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\visa_logo.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_profil.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_profil.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_transaksi.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_transaksi.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_time.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_time.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_job.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_job.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_slide_three.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\slide_three.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_category.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_category.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chats.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_chats.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lupapassword.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_lupapassword.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_detailwallet.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_detailwallet.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pesan_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_pesan_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_word_map.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\word_map.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_withdraw.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_withdraw.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_withdraw.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_withdraw.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pickup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_store_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_store_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_chat_other.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\background_chat_other.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pickup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\pickup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_tag.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_tag.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_trash.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_trash.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paypal.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\paypal.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_profil_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_profil_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_min.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\btn_min.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_profil_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_profil_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_round_3.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\button_round_3.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_chat_audio_other.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_chat_audio_other.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_chat_image_my.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_chat_image_my.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_topup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_topup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chats.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_chats.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pesan.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_pesan.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_time.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_time.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_store_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_store_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_store.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_store.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_time.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_time.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_destination.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_destination.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_store.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_store.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_recycle.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\fragment_recycle.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_stripetopup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\stripetopup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_promoitem.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\promoitem.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_privacylist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_privacylist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_logoutlist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_logoutlist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_whitelogo.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\whitelogo.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delivery.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_delivery.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_editvehicle.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\editvehicle.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chats.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_chats.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_profil_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_profil_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mic.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_store.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_store.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_time.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_time.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ordervalidasi.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_ordervalidasi.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_slide_two.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\slide_two.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visamaster.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\visamaster.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_stripetopup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\stripetopup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_card.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_card.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_round_2.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\button_round_2.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chats.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_chats.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_tag.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_tag.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_camera.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_addcategory.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\dialog_addcategory.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_slide_one.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\slide_one.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_tag.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_tag.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_round_1.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\button_round_1.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_gallery.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sharelist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_sharelist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_close.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_button.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\rounded_corners_button.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_withdraw.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_withdraw.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mic.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pickup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diners_club.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\diners_club.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_progress.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jcb.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\jcb.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_sheet_list.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\sheet_list.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_gender.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_gender.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_slide_one.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\slide_one.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_regular.ttf.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\font\\montserrat_regular.ttf"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_profil.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_profil.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_web.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_web.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fullimage.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\fragment_fullimage.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_placeholder.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\image_placeholder.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_transaksi_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_transaksi_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_destination.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_destination.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_editlist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_editlist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_privacylist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_privacylist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_detailwallet.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_detailwallet.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_transaksi.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_transaksi.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_destination.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_destination.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_call.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_call.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pickup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_web.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_web.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logoutlist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_logoutlist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\ic_play.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_privacylist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_privacylist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_menus.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_menus.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_topup.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_topup.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_button_red.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\rounded_corners_button_red.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backrouddrawable.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\backrouddrawable.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_destination.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_destination.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_trash.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_trash.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cancel.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_gender.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_gender.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pesan_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_pesan_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_kalender.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_kalender.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_drivers.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drivers.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_editlist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_editlist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_privacylist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_privacylist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_whitelogo.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\whitelogo.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_slide_three.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\slide_three.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_checklist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_checklist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chip.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\chip.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_progress.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_progress.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_camera.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logoapp.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\logoapp.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_gallery.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_stripetopup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\stripetopup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star_filled.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\ic_star_filled.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_checklist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_checklist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pesan_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_pesan_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_privacy_policy.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_privacy_policy.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mic.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_price.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_price.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rect_red.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\btn_rect_red.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_burst.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\burst.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_bold.ttf.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\font\\montserrat_bold.ttf"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_topup.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_topup.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_call.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_call.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_camera.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delivery.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_delivery.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgroundabout.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\backgroundabout.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_editorder.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\dialog_editorder.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mic.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ratelist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_ratelist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_editlist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_editlist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_edittext_background.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\round_edittext_background.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_playsound.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\ic_playsound.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_trash.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_trash.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_trash.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_trash.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_vehicle.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_vehicle.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_transaksi_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_transaksi_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\anim_from_left.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\anim\\from_left.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\spinner.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_atm.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\atm.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intro.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_job.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_job.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_neworder.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\neworder.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_slide_two.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\slide_two.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_shimmeritem.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\shimmeritem.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_transaksi_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_transaksi_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_playaudio.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\fragment_playaudio.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_vehicle.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vehicle.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_target.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_target.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_target.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_target.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_vehicle.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_vehicle.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_slide_two.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\slide_two.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_drivers.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_drivers.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_changepass.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\changepass.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_call.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_call.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chat.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_chat.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_profil.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_profil.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_editlist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_editlist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_starempty.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\ic_starempty.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avaliable.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\avaliable.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_editstore.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_editstore.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_kalender.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_kalender.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pesan.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_pesan.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_chat_other.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_chat_other.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_tag.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_tag.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_progress.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_progress.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_gender.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_gender.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_destination.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_destination.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_verify.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\verify.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logoutlist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_logoutlist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_call.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_call.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_transaksi.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_transaksi.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star_half.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\ic_star_half.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pesan.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pesan.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_detailwallet.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_detailwallet.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_addmenu.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_addmenu.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lupapass.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\lupapass.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_shimerpromo.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\shimerpromo.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_progress.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_progress.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_slide_three.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\slide_three.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logoutlist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_logoutlist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_whitelogo.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\whitelogo.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_gender.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_gender.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_two.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\slide_two.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drivers.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_drivers.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_shimerwallet.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\shimerwallet.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selecteditem_dot.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\selecteditem_dot.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_store.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_store.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_drivers.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_drivers.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_target.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_target.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cancel.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_card.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_card.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_call.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_call.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_discover.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\discover.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_send.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_transaksi.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_transaksi.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_privacylist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_privacylist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_message.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_message.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_promobadge.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\promobadge.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lock.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_reports.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\fragment_reports.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_chat_alert.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_chat_alert.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_picklocation.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_picklocation.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_gallery.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_order.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_order.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_word_map.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\word_map.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_shimmermenu.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\shimmermenu.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_send.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\anim_to_left.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\anim\\to_left.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ratelist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_ratelist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_checklist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_checklist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\raw_style_json.json.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\raw\\style_json.json"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_shimmerorder.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\shimmerorder.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_kalender.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_kalender.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_menu.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_whitelogo.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\whitelogo.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgroundheader.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\backgroundheader.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\anim_indicator_animator.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\anim\\indicator_animator.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_withdraw.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_withdraw.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_three.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\slide_three.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logosplash.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\logosplash.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_one.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\slide_one.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_privacy.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_privacy.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_kalender.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_kalender.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chat.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_job.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_job.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_slide_one.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\slide_one.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chat.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_logoutlist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_logoutlist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sharelist.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_sharelist.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edits.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_edits.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lock.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_slide_one.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\slide_one.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_detailwallet.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_detailwallet.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edits.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_edits.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edits.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_edits.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_my_chat.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\background_my_chat.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_transaksi_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_transaksi_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nonselecteditem_dot.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\nonselecteditem_dot.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_slider_layout.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_slider_layout.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chat.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_chat_image_other.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\item_chat_image_other.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_not_send_message.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\ic_not_send_message.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_privacy_policy.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_privacy_policy.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_editmitra.xml.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\layout\\activity_editmitra.xml"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_card.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-hdpi\\ic_card.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_destination.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable\\destination.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_transaksi.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_transaksi.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_store_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-mdpi\\ic_store_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_send.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_store_s.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_store_s.png"
+    },
+    {
+        "merged": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send.png.flat",
+        "source": "D:\\TeamPro\\TaxiOne\\merchantapp\\app\\src\\main\\res\\drawable-xhdpi\\ic_send.png"
+    }
+]

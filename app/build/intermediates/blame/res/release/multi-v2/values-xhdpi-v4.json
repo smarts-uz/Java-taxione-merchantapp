@@ -1,0 +1,53 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\myDesktop\\android\\teamPro\\taxi28\\merchantapp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\99899\\.gradle\\caches\\transforms-2\\files-2.1\\3e1c6ddd80de3a9b02eb230e699f3b41\\stripe-android-16.5.0\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\99899\\.gradle\\caches\\transforms-2\\files-2.1\\485536be3c1acc195396b57f3bf579eb\\jetified-plug-n-play-1.6.0\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,163,211,266,321,368",
+                        "endColumns": "57,49,47,54,54,46,60",
+                        "endOffsets": "108,158,206,261,316,363,424"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "112,170,220,268,323,378,425",
+                        "endColumns": "57,49,47,54,54,46,60",
+                        "endOffsets": "165,215,263,318,373,420,481"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\99899\\.gradle\\caches\\transforms-2\\files-2.1\\1661dce9c0e7b9c4f2cb403c7161dd39\\jetified-payumoney-sdk-7.6.0\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,37",
+                        "endOffsets": "109,147"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "486,545",
+                        "endColumns": "58,37",
+                        "endOffsets": "540,578"
+                    }
+                }
+            ]
+        }
+    ]
+}

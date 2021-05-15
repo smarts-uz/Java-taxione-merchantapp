@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.labo.kaji:fragmentanimations:0.1.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6342af789b85cf5004e18d8f4350d0d1/jetified-fragmentanimations-0.1.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fd4bc5f1461c6b5e1b87688e74ed40d5/jetified-fragmentanimations-0.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6342af789b85cf5004e18d8f4350d0d1/jetified-fragmentanimations-0.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6342af789b85cf5004e18d8f4350d0d1/jetified-fragmentanimations-0.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6342af789b85cf5004e18d8f4350d0d1/jetified-fragmentanimations-0.1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.labo.kaji/fragmentanimations/0.1.1/4e488b68ee5c69c61e0446c751f331e4c2a11932/fragmentanimations-0.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.labo.kaji/fragmentanimations/0.1.1/7367b6d3d3af457b2dbcc845de49ff8f07153bfe/fragmentanimations-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
